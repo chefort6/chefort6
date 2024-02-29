@@ -33,10 +33,10 @@
   <a href="https://www.linkedin.com/in/oussama-bouchikhi-49a0b6193/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/ousstheboss/" target="_blank">
+  <a href="https://www.instagram.com/che.fort/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
   </a>
-  <a href="https://www.facebook.com/oussama.bouchikhi.98" target="_blank">
+  <a href="https://www.facebook.com/chelsealfortaleza" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
   </a>
 
